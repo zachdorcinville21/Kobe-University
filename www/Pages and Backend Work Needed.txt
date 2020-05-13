@@ -1,0 +1,16 @@
+Student:
+View Holds Page - Holds don't exist in the database
+
+Admin:
+Adding Sections on Submit (Backend)
+Adding Courses on Submit (Backend)
+Edit Course - editCourseForm.php, backend work needed for delete/edit on submit
+Edit Section - editSectionForm.php, backend work needed for delete/edit on submit
+viewUsers.php - No advisor/holds page because none exist in the database
+	      - Backend work / Form needed to edit student grades
+Faculty:
+View Advisees Page - Advisors don't exist in the database
+viewStudents.php - - Backend work / Form needed to edit student grades
+
+Researcher:
+View Academic Calendar Page - Not sure what this is?
